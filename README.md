@@ -1,2 +1,2 @@
-# Trex_-Game
+# Trex_Game
 This is a game which we created in the class.
